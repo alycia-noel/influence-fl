@@ -1,4 +1,4 @@
-Here, we provide additional information about the experimental setup for the experiments performed in Achieving Flexible Local Differential Privacy in Federated Learning via Influence Functions published at ECML-PKDD'25. We note that we ran all experiments on a Tesla V100-SXM2-32GB.
+Here, we provide additional information about the experimental setup for the experiments performed in **Achieving Flexible Local Differential Privacy in Federated Learning via Influence Functions** published at ECML-PKDD'25. We note that we ran all experiments on a Tesla V100-SXM2-32GB.
 
 ## Dataset Descriptions
 We use three binary datasets to test FLDP-FL: ACS Income, Glioma , and ACS Public Coverage. We note that after distributing the data among the clients according to the process described in Communication-Efficient Learning of Deep Networks
